@@ -1,6 +1,6 @@
 1) ACCESS CURRENT VERSION:
 
-Go to our group 3 repository at ttps://github.com/Alannao/the-game and access our "Right Room" branch, my assigned Main tunnel1 folder, image subfolder, and/or the tunnel1.html file. 
+Go to our group 3 repository at https://github.com/Alannao/the-game and access our "Right Room" branch, my assigned Main tunnel1 folder, image subfolder, and/or the tunnel1.html file. 
 
 2) WORK ON ENVIRONMENT: 
 
