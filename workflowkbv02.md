@@ -18,11 +18,9 @@ Because I use Mac and PC, I will use the appropriate non-terminal tools (Windows
 ##  3) How do you edit files on your local machine?
 EDIT TOOLS: 
 
-### A) If downloaded to computer, 
-I use Bracket's, Text ++, using basic text editor.  Open files in Brackets to work on them.  
+### A) If downloaded to computer, I use Bracket's, Text ++, using basic text editor.  Open files in Brackets to work on them.  
 
-### B) If on my Github test repository, 
-I typically use the file edit function to edit the content of the html file and pull requests to update the image folder. However, because I am learning, I test different routes for each. 
+### B) If on my Github test repository, I typically use the file edit function to edit the content of the html file and pull requests to update the image folder. However, because I am learning, I test different routes for each. 
 
 ## 4) How do you test code locally to verify that it works?
 SAVING AND TESTING: 
