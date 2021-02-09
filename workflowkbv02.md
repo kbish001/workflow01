@@ -9,9 +9,8 @@ ACCESS CURRENT VERSION:
 ## 2) How do you move files on your local machine?
 WORK ON ENVIRONMENT: 
 
-### A) If I need to work with the whole https://github.com/Alannao/the-game repository, 
-#### I may download it into my IT 115 subfolder for the repository.  
-Because I use Mac and PC, I will use the appropriate non-terminal tools (Windows Explorer or Mac Finder) to move and access.  Current goal is to get more confident in my terminal management and use that route.  
+### A) If I need to work with the whole https://github.com/Alannao/the-game repository, I may download it into my IT 115 subfolder for the repository.  
+### Because I use Mac and PC, I will use the appropriate non-terminal tools (Windows Explorer or Mac Finder) to move and access.  Current goal is to get more confident in my terminal management and use that route.  
 
 ### B) Alternatively or in addition, I will update my testing repository at https://github.com/kbish001/github-page-test.  I may edit and/or do pull requests in my own repository.  
 
@@ -31,4 +30,4 @@ SAVING AND TESTING:
 
 ## 5) How to you merge your changes back to the main project on GitHub?
 PULL REQUEST TO INTEGRATE BACK INTO GROUP 3/RIGHT ROOM MAIN:
-To get back into our group directory I do a pull request back into https://github.com/Alannao/the-game/tree/main/tunnel1 for review and acceptance or rejections by other group members. 
+### To get back into our group directory I do a pull request back into https://github.com/Alannao/the-game/tree/main/tunnel1 for review and acceptance or rejections by other group members. 
