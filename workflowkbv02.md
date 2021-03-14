@@ -12,7 +12,6 @@ WORK ON ENVIRONMENT:
 ### A) If I need to work with the whole https://github.com/Alannao/the-game repository, I may download it into my IT 115 subfolder for the repository.  
 ### Because I use Mac and PC, I will use the appropriate non-terminal tools (Windows Explorer or Mac Finder) to move and access.  Current goal is to get more confident in my terminal management and use that route.  
 
-### B) Alternatively or in addition, I will update my testing repository at https://github.com/kbish001/github-page-test.  I may edit and/or do pull requests in my own repository.  
 
 ##  3) How do you edit files on your local machine?
 EDIT TOOLS: 
